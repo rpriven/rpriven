@@ -1,5 +1,9 @@
 - 👋 Hi, I’m @rpriven
-- 👀 I’m interested in Cybersecurity, the Blockchain, Scripting and Front End Web Development
+- 👀 I’m interested in:
+- Cybersecurity
+- The Blockchain & Crypto
+- Scripting
+- Front End Web Development
 - 🌱 I’m currently learning Front End Web Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
