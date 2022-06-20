@@ -1,12 +1,17 @@
 - 👋 Hi, I’m @rpriven
 - 👀 I’m interested in:
-- Cybersecurity
-- The Blockchain & Crypto
-- Scripting
-- Front End Web Development
-- 🌱 I’m currently learning Front End Web Development
+  
+  - Cybersecurity
+    - Python / Bash
+  - The Blockchain & Crypto
+    - Solidity / Rust
+  - Front End Web Development
+    - HTML / CSS / JS
+ 
+- 🌱 I’m currently learning many various things
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+  - Website and contact details coming soon
 
 <!---
 rpriven/rpriven is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
