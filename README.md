@@ -3,12 +3,12 @@
   
   - Cybersecurity
     - Python / Bash
-  - The Blockchain & Crypto
+  - The Blockchain, Crypto & Smart Contracts
     - Solidity / Rust
   - Front End Web Development
     - HTML / CSS / JS
  
-- 🌱 I’m currently learning many various things
+- 🌱 I’m currently learning Python and CSS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
   - Website and contact details coming soon
