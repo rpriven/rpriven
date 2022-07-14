@@ -8,8 +8,8 @@
   - Front End Web Development
     - HTML / CSS / JS
  
-- 🌱 I’m currently learning Python and CSS
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Python, JavaScript and CSS
+- 💞️ I’m looking to collaborate on DeFi / Websites
 - 📫 How to reach me ...
   - Website and contact details coming soon
 
