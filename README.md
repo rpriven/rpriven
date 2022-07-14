@@ -1,3 +1,5 @@
+# Welcome
+
 - 👋 Hi, I’m @rpriven
 - 👀 I’m interested in:
   
@@ -8,7 +10,8 @@
   - Front End Web Development
     - HTML / CSS / JS
  
-- 🌱 I’m currently learning Python, JavaScript and CSS
+- 🌱 I’m currently learning:
+  - Python, JavaScript and CSS
 - 💞️ I’m looking to collaborate on DeFi / Websites
 - 📫 How to reach me ...
   - Website and contact details coming soon
