@@ -1,19 +1,26 @@
 # Welcome
 
-- 👋 Hi, I’m @rpriven
-- 👀 I’m interested in:
+- 👋 Hi, I’m **@rpriven**
+- 👀 I’m interested in many things:
   
-  - Cybersecurity
-    - Python / Bash
-  - The Blockchain, Crypto & Smart Contracts
-    - Solidity / Rust
-  - Front End Web Development
-    - HTML / CSS / JS
+  * 🔍**Privacy & Cybersecurity**
+  
+    * 🐍 **Python**, 🐧 **Linux** / Bash 
+    
+  * 🪙 **The Blockchain, Crypto, DeFi**
+  
+    * 🦀 Rust, Solidity 
+    
+  * 🕸️ **Front End Web Development**
+  * ⚖️ **Natural Law & Freedom**
+  * 🎸 **Music & the Arts**
  
 - 🌱 I’m currently learning:
-  - Python, JavaScript and CSS
-- 💞️ I’m looking to collaborate on DeFi / Websites
+  - 🐍 Python, JavaScript and 🦀 Rust
+  
+- 💞️ I’m looking to collaborate on any of my interests
 - 📫 How to reach me ...
+
   - Website and contact details coming soon
 
 <!---
