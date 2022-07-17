@@ -13,10 +13,10 @@
     
   * 🕸️ **Front End Web Development**
   * ⚖️ **Natural Law & Freedom**
-  * 🎸 **Music & the Arts**
+  * :guitar: :metal: **Music & the Arts** :guitar:
  
 - 🌱 I’m currently learning:
-  - 🐍 Python, JavaScript and 🦀 Rust
+  - 🐍 Python, 🦏 JavaScript and 🦀 Rust
   
 - 💞️ I’m looking to collaborate on any of my interests
 - 📫 How to reach me ...
