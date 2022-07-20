@@ -4,7 +4,8 @@
 - 👀 I’m interested in many things:
   
   * 🔍**Privacy & Cybersecurity**
-  
+    
+    * **Penetration Testing**
     * 🐍 **Python**, 🐧 **Linux** / Bash 
     
   * 🪙 **The Blockchain, Crypto, DeFi**
@@ -16,6 +17,7 @@
   * :guitar: :metal: **Music & the Arts** :guitar:
  
 - 🌱 I’m currently learning:
+  - **Penetration Testing** / Jr Penetration Tester (TryHackMe)
   - 🐍 Python, 🦏 JavaScript and 🦀 Rust
   
 - 💞️ I’m looking to collaborate on any of my interests
