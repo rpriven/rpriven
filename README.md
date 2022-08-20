@@ -1,9 +1,10 @@
 # **@rpriven**
 
 I love privacy and security.
+
 I also love Python and bash scripting.
 
-Looking for work in the CyberSecurity field
+Looking for work in the CyberSecurity field.
 
 Currently learning:
   - API Security Testing & Remediation
