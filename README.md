@@ -1,31 +1,15 @@
 # Welcome
 
-- 👋 Hi, I’m **@rpriven**
-- 👀 I’m interested in many things:
-  
-  * 🔍**Privacy & Cybersecurity**
-    
-    * **Penetration Testing**
-    * 🐍 **Python**, 🐧 **Linux** / Bash 
-    
-  * 🪙 **The Blockchain, Crypto, DeFi**
-  
-    * 🦀 Rust, Solidity 
-    
-  * 🕸️ **Front End Web Development**
-  * ⚖️ **Natural Law & Freedom**
-  * :guitar: :metal: **Music & the Arts** :guitar:
- 
-- 🌱 I’m currently learning:
-  - **Penetration Testing** / Jr Penetration Tester (TryHackMe)
-  - 🐍 Python, 🦏 JavaScript and 🦀 Rust
-  
-- 💞️ I’m looking to collaborate on any of my interests
-- 📫 How to reach me ...
+# **@rpriven**
 
-  - Website and contact details coming soon
+I love privacy and security.
+I also love Python and bash scripting.
 
-<!---
-rpriven/rpriven is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Looking for work in the CyberSecurity field
+
+Currently learning:
+  - API Security Testing & Remediation
+  - OWASP Testing & Remediation
+  - DevOpSec to write better code and to do testing
+  
+Happy to network or coordinate with anyone interested in any of the above topics
