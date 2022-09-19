@@ -16,3 +16,6 @@ Currently learning:
   - DevOpSec to write better code and to do testing
   
 Happy to network or coordinate with anyone interested in any of the above topics
+
+TryHackMe [Red Teamer]
+<img src="https://tryhackme-badges.s3.amazonaws.com/djedi.riven.png" alt="TryHackMe">
