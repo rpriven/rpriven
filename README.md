@@ -1,6 +1,7 @@
 # **@rpriven**
 
-<div id="badges">
+<div id="badges" align="center">
+  ![](https://komarev.com/ghpvc/?username=rpriven)
   <a href="https://rpriven.github.io">
     <img src="https://img.shields.io/tokei/lines/github/rpriven/rpriven.github.io" alt="rpriven.github.io"/>
   </a>
