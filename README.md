@@ -1,5 +1,7 @@
 # **@rpriven**
 
+https://img.shields.io/tokei/lines/github/rpriven/rpriven.github.io
+
 Cybersecurity Enthusiast / Aspiring Pentester & Red Teamer
 
 TryHackMe [Red Teamer]
