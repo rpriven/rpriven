@@ -33,3 +33,13 @@
 	</a>
 		<img src="https://img.shields.io/badge/-Blog-ff2222?style=for-the-badge"/>
 </div>
+
+## My Stats:
+
+<div>
+	<img src="https://github-readme-streak-stats.herokuapp.com/?user=rpriven&theme=dark"/>
+</div>
+
+<div>
+	<img src="https://github-readme-stats.vercel.app/api?username=rpriven&show_icons=true&theme=dark"/>
+</div>
