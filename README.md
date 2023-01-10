@@ -1,6 +1,6 @@
 # **@rpriven**
 <div align="center">
-  <h2>Cybersecurity Enthusiast / Aspiring Pentester & Red Teamer</h2>
+  <h2>Offensive Cyber Operator / Penetration Tester</h2>
   <h2>Cyber Ranges Certified Exploitation and Post-Exploitation Professional (CEPP)</h2>
 </div>
 <div align="center">
