@@ -43,7 +43,7 @@ Passionate about fixing and securing things
 
 <div align="center">
 <!-- Hack The Box -->
-  <a href="https://app.hackthebox.com/profile/yourusername">
+  <a href="https://app.hackthebox.com/profile/enphix">
     <img src="https://www.hackthebox.eu/badge/image/1297175" alt="Hack The Box">
   </a>
   <br>
@@ -54,7 +54,7 @@ Passionate about fixing and securing things
   <br>
 <!-- MetaCTF -->
   <a href="https://lookup.ace-t.mctf.io/?id=108364">
-    <img src="https://img.shields.io/badge/MetaCTF-Level_7-00AEEF?style=flat" alt="MetaCTF Level 7">
+    <img src="https://img.shields.io/badge/MetaCTF_Ace_T-Level_7-00AEEF?style=flat" alt="MetaCTF Level 7">
   </a>
 	<br>
 <!-- FreeCodeCamp -->
