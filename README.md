@@ -1,7 +1,7 @@
 # **@rpriven**
 <div align="center">
-  <h2>Offensive Cyber Operator / Penetration Tester</h2>
-  <h2>Cyber Ranges Certified Exploitation and Post-Exploitation Professional (CEPP)</h2>
+  <h2>Security & Privacy Researcher // Ethical Hacker</h2>
+  <h3>Ethical Hacker</h3>
 </div>
 <div align="center">
   <a href="https://tryhackme.com/p/djedi.riven" alt="TryHackMe">
