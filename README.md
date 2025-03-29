@@ -1,6 +1,6 @@
 # **@rpriven**
 <div align="center">
-  <h2>Security & Privacy Researcher // Ethical Hacker</h2>
+  <h2>Security & Privacy Researcher</h2>
   <h3>Ethical Hacker</h3>
 </div>
 <div align="center">
