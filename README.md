@@ -1,6 +1,6 @@
 ## 🔒 Security & Privacy Enthusiast
 
-Passionate about fixing and securing things
+Passionate about fixing and securing things (AI, Pentesting, Security, Privacy, Automation)
 
 ### 💻 Technologies
 
