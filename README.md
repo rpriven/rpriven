@@ -1,6 +1,6 @@
-## 🔒 Security & Privacy Enthusiast
+## 🔒 
 
-Passionate about fixing and securing things (AI, Pentesting, Security, Privacy, Automation)
+Security and privacy enthusiast with a hacker's mindset. Tinkerer of code, explorer of systems, automator of solutions. Focused on AI, pentesting, and digital privacy. Driven by curiosity and committed to learning by breaking and fixing things along the way.
 
 ### 💻 Technologies
 
@@ -68,10 +68,12 @@ Passionate about fixing and securing things (AI, Pentesting, Security, Privacy, 
 
 <p align="center">
   <a href="https://github.com/rpriven">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=rpriven&show_icons=true&line_height=27&count_private=true&exclude=reviews&theme=tokyonight" alt="GitHub Stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=rpriven&show_icons=false&line_height=27&count_private=true&theme=tokyonight" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/rpriven">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rpriven&hide=java,html,tex,css&langs_count=5&layout=compact&theme=tokyonight" alt="Top Languages" />
   </a>
-  <img src="https://github-profile-trophy.vercel.app/?username=rpriven&theme=tokyonight" alt="GitHub Trophies" />
+  <a href="https://github.com/rpriven">
+    <img src="https://github-profile-trophy.vercel.app/?username=rpriven&row=1&column=7&no-frame=true&margin-w=15&margin-h=15&no-bg=true&theme=darkhub" alt="GitHub Trophies"/>
+  </a>
 </p>
