@@ -66,14 +66,12 @@ Passionate about fixing and securing things (AI, Pentesting, Security, Privacy, 
 
 ## 📈 GitHub Stats
 
-<div align="center">
-	<a href="https://github.com/rpriven">
-  	<img align="center" src="https://github-readme-stats.vercel.app/api?username=rpriven&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Your GitHub Stats" />
-	</a>
-	<a href="https://github.com/rpriven">
-  	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rpriven&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=4" alt="Top Languages" />
-	</a>
-	<div>
-		<img src="https://github-readme-streak-stats.herokuapp.com/?user=rpriven&theme=dark" alt="Streak Stats" />
-	</div>
-</div>
+<p align="center">
+  <a href="https://github.com/rpriven">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=rpriven&show_icons=true&line_height=27&count_private=true&exclude=reviews&theme=tokyonight" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/rpriven">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rpriven&hide=java,html,tex,css&langs_count=5&layout=compact&theme=tokyonight" alt="Top Languages" />
+  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=rpriven&theme=tokyonight" alt="GitHub Trophies" />
+</p>
