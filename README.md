@@ -4,7 +4,7 @@ Security and privacy enthusiast with a hacker's mindset. Tinkerer of code, explo
 
 ## 🔐 Security
 
-  **All commits since October 5th, 2025 are cryptographically signed** with GPG. Look for the green "Verified" badge.
+  **All commits since October 2025 are cryptographically signed** with GPG. Look for the green "Verified" badge.
 
   Older commits were made before I implemented GPG signing.
 
