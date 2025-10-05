@@ -2,6 +2,12 @@
 
 Security and privacy enthusiast with a hacker's mindset. Tinkerer of code, explorer of systems, automator of solutions. Focused on AI, pentesting, and digital privacy. Driven by curiosity and committed to learning by breaking and fixing things along the way.
 
+## 🔐 Security
+
+  **All commits since October 5th, 2025 are cryptographically signed** with GPG. Look for the green "Verified" badge.
+
+  Older commits were made before I implemented GPG signing.
+
 ### 💻 Technologies
 
 <!-- ### 🐧 Operating Systems & Platforms -->
