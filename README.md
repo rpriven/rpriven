@@ -1,4 +1,4 @@
-## 🔒 
+## 🔒 Security Researcher | Privacy Advocate | Automation Specialist
 
 Security and privacy enthusiast with a hacker's mindset. Tinkerer of code, explorer of systems, automator of solutions. Focused on AI, pentesting, and digital privacy. Driven by curiosity and committed to learning by breaking and fixing things along the way.
 
@@ -7,6 +7,43 @@ Security and privacy enthusiast with a hacker's mindset. Tinkerer of code, explo
   **All commits since October 2025 are cryptographically signed** with GPG. Look for the green "Verified" badge.
 
   Older commits were made before I implemented GPG signing.
+
+## 🛠️ Featured Projects
+
+### [Djedi Toolbelt](https://github.com/rpriven/toolbelt)
+Comprehensive security tool installer with interactive menus and pre-built profiles for pentesters
+- 📦 APT, Go, Python, and Docker tool management
+- 🎯 Bug Bounty, CTF, and Full Arsenal profiles
+- ⚙️ Individual tool selection with gum multi-select
+
+### [Fresh](https://github.com/rpriven/fresh)
+Modern CLI productivity tool installer and system setup automation
+
+### [Security Cheatsheets](https://github.com/rpriven/security-cheatsheets)
+Curated collection of pentesting methodologies and security references
+
+## 🌐 Find Me Online
+
+- 🛡️ **Open Source Work**: This GitHub - Security tools, automation, privacy-first solutions
+- 🏢 **Applied Work**: [djeditech.com](https://djeditech.com) - Privacy-focused automation for construction & small business
+- 📧 **Professional Inquiries**: Contact via djeditech.com
+
+## 🎯 Currently
+
+- 🔨 Building privacy-first automation tools
+- 🎓 Practicing on HTB/THM (see badges below)
+- 💡 Exploring AI-assisted pentesting workflows
+
+## 🔐 Security Focus Areas
+
+- 🎯 **Offensive Security**: Web app pentesting, network scanning, OSINT
+- 🛡️ **Defensive Security**: Privacy infrastructure, secure automation
+- 🤖 **Automation**: Tool deployment, workflow optimization, AI integration
+- 📊 **Specialties**: Construction industry security, privacy-focused business tools
+
+## 🤝 Contributing
+
+Found a bug or have a suggestion? Feel free to open an issue or submit a pull request!
 
 ### 💻 Technologies
 
