@@ -1,11 +1,12 @@
 ## Own your time. Own your tools. Own your data.
 
-AI • Automation • Privacy • Security • Infrastructure
+**AI • Automation • Privacy • Security • Infrastructure**
 
-**Commits signed with GPG since October 2025.**
+Self-hosted, privacy-first, AI-augmented. I build tools for digital sovereignty — and help small businesses run their tech without having to think about it.
 
-## Contact
+Day to day: self-hosting, automation, running my own AI infrastructure, security & privacy engineering, and writing plain-language guides so others can own their stack too.
 
-- [djeditech.com](https://djeditech.com)
-- [LinkedIn](https://www.linkedin.com/in/rob-pratt-djedi/)
-- Email via djeditech.com
+🛡️ GPG-signed commits since October 2025.
+
+🔗 [rpriven.github.io](https://rpriven.github.io) · 🛠️ [djeditech.com](https://djeditech.com)
+
